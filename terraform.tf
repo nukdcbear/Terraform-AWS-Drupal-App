@@ -9,7 +9,7 @@ terraform {
 #     region  = "us-east-2"
 #     encrypt = true
 #   }
-# }
+}
 
 provider "aws" {
   region  = "us-west-1"
